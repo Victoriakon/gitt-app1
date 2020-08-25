@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfe0c98611fad6f3f5979b93aa97b22a",
+    "revision": "9a561a577d86d0a7bd607a2e6104e7fb",
     "url": "/gitt-app1/index.html"
   },
   {
-    "revision": "4418ec855c042f8d50eb",
+    "revision": "9bac996f9f307627cc50",
     "url": "/gitt-app1/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/gitt-app1/static/js/2.939bf6c5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4418ec855c042f8d50eb",
-    "url": "/gitt-app1/static/js/main.3ea87597.chunk.js"
+    "revision": "9bac996f9f307627cc50",
+    "url": "/gitt-app1/static/js/main.7b143616.chunk.js"
   },
   {
     "revision": "90b64035868be3693f94",

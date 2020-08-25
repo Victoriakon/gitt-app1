@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/gitt-app1/precache-manifest.c95bebd0f21cc36f8d5564dbcab4b73a.js"
+  "/gitt-app1/precache-manifest.8e280fb643e72ab079b16aa6cfabf341.js"
 );
 
 self.addEventListener('message', (event) => {
