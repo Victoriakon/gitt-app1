@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gitt-app1/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gitt-app1/static/js/main.3ea87597.chunk.js",
+    "main.js.map": "/gitt-app1/static/js/main.3ea87597.chunk.js.map",
+    "runtime-main.js": "/gitt-app1/static/js/runtime-main.0bd923f4.js",
+    "runtime-main.js.map": "/gitt-app1/static/js/runtime-main.0bd923f4.js.map",
+    "static/js/2.939bf6c5.chunk.js": "/gitt-app1/static/js/2.939bf6c5.chunk.js",
+    "static/js/2.939bf6c5.chunk.js.map": "/gitt-app1/static/js/2.939bf6c5.chunk.js.map",
+    "index.html": "/gitt-app1/index.html",
+    "precache-manifest.c95bebd0f21cc36f8d5564dbcab4b73a.js": "/gitt-app1/precache-manifest.c95bebd0f21cc36f8d5564dbcab4b73a.js",
+    "service-worker.js": "/gitt-app1/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gitt-app1/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.939bf6c5.chunk.js.LICENSE.txt": "/gitt-app1/static/js/2.939bf6c5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gitt-app1/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0bd923f4.js",
+    "static/js/2.939bf6c5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.3ea87597.chunk.js"
+  ]
+}
